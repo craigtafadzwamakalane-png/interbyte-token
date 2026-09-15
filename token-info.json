@@ -1,0 +1,8 @@
+{
+  "name": "InterByte",
+  "symbol": "IBYTE",
+  "chainId": 137,
+  "contractAddress": "0x1DCA11B1264E3fB4FA7e10806B3eFa523E4530a3",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/craigtafadzwamakalane-png/interbyte-token/main/logo/logo.png"
+}
